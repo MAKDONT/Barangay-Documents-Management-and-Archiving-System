@@ -16,11 +16,7 @@ namespace BARANGAY
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
             Application.Run(new MainMenu());
-=======
-            Application.Run(new Form1());
->>>>>>> e1a5e64aabcdaff4d48cda1b83368c342043c52d
         }
     }
 }
