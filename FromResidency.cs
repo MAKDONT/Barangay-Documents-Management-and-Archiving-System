@@ -16,5 +16,10 @@ namespace BARANGAY
         {
             InitializeComponent();
         }
+
+        private void FromResidency_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
