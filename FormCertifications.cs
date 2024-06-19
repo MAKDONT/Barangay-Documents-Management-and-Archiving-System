@@ -16,13 +16,10 @@ namespace BARANGAY
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
 
         private void FormCertifications_Load(object sender, EventArgs e)
         {
 
         }
-=======
->>>>>>> e1a5e64aabcdaff4d48cda1b83368c342043c52d
     }
 }
