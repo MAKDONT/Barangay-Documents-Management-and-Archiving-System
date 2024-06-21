@@ -98,7 +98,7 @@ namespace BARANGAY
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            FromResidency f = new FromResidency();
+            FormBRIC f = new FormBRIC ();
             f.TopLevel = false;
             panel3.Controls.Add(f);
             f.BringToFront();
